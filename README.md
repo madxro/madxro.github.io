@@ -1,1 +1,3 @@
-# madxro.github.io
+## Seym.chat website
+
+http://www.seym.chat/
